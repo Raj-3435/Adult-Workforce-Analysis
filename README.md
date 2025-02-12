@@ -55,7 +55,7 @@ This project explores a dataset through **data cleaning, preprocessing, and stat
 ## **Installation**
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/data-analysis-project.git
+   git clone https://github.com/Raj-3435/Adult-Workforce-Analysis.git
   
 2. Install required dependencies:
 ```
