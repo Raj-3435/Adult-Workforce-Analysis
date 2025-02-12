@@ -10,7 +10,7 @@ This project explores a dataset through **data cleaning, preprocessing, and stat
 - Optimize memory usage.
 - Generate insights through data visualization.
 
-## **Dataset Information**
+## 📂 **Dataset Information**
 - **Number of Records:** 📊 48842 rows 
 - **Number of Features:** 📑 15 columns  
 - **Key Columns:**  
@@ -27,11 +27,11 @@ This project explores a dataset through **data cleaning, preprocessing, and stat
 - **Convert Data Types for Optimization**
 
 ## **Key Features**
-- Fetch random samples
-- Check null values
-- Drop irrelevant columns
-- Data distribution analysis
-- Convert categorical columns to optimized types
+- 📌 **Data Cleaning & Preprocessing:** Handling missing values, removing duplicates, and standardizing data.
+- 📊 **Statistical Analysis:** Univariate and bivariate analysis to uncover trends in employment and salary distribution.
+- 🚀 **Memory Optimization:** Reducing memory usage through datatype conversion.
+- 💰 **Salary Prediction Factors:** Identifying key attributes influencing income levels.
+- 📈 **Data Visualization:** Using Seaborn and Matplotlib to create insightful charts.
 
 ## **Analysis and Results**
 ### 🔍 **Top Insights from Univariate and Bivariate Analysis**
@@ -76,5 +76,5 @@ To contribute, follow these steps:
 Let's build a better analysis together! 
 
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
